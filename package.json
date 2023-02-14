@@ -21,12 +21,12 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "set \"PUBLIC_URL=/clothingstore\" && react-scripts start",
-    "build": "set \"PUBLIC_URL=/clothingstore\" && react-scripts build",
+    "start": "set \"PUBLIC_URL=/\" && react-scripts start",
+    "build": "set \"PUBLIC_URL=/\" && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "./clothingstore",
+  "homepage": "./",
   "eslintConfig": {
     "extends": [
       "react-app",
